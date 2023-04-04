@@ -38,7 +38,7 @@ tt_data_prep %>%
   scale_y_continuous(labels = dollar_format(suffix = "%", prefix = "")) +
   labs(x="Year", y="Percentage",
        title = "Proportion of Renewable Energy Consumed in the UK",
-       subtitle = "The proportion of renewable energy consumed in the UK varies from 0.73% in 1990 to 14.44% in 2020",
+       subtitle = "The proportion of renewable energy consumed in the UK varies from 0.73% (1990) to 14.44% (2020)",
        caption = "#30DayChartChallenge | Day 1 | Comparisons: part-to-whole\nDataviz: Olalekan Oshodi") +
   theme(axis.line = element_line(size=1, colour = "black"),
         panel.grid.major = element_line(colour = "#d3d3d3"), panel.grid.minor = element_blank(),
