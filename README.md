@@ -12,3 +12,7 @@ used to create each figure by clicking on it. if you like what you see,
 ### Day 1 - Part to whole - 🛠️ RStats
 
 ![](Figures/day01_part-to-whole.png)
+
+### Day 2 - Waffle - 🛠️ RStats
+
+![](Figures/day02_waffle.png)
