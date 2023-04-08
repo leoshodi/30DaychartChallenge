@@ -16,3 +16,7 @@ used to create each figure by clicking on it. if you like what you see,
 ### Day 2 - Waffle - 🛠️ RStats
 
 ![](Figures/day02_waffle.png)
+
+### Day 3 - Fauna/Flora - 🛠️ RStats
+
+![](Figures/day03_flora.png)

@@ -20,3 +20,7 @@ Welcome to my 2023 #30DayChartChallenge repo. You can view for R code used to cr
 ### Day 2 - Waffle - 🛠️ RStats
 
 ![](Figures/day02_waffle.png)
+
+### Day 3 - Fauna/Flora - 🛠️ RStats
+
+![](Figures/day03_flora.png)
