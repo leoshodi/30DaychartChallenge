@@ -11,7 +11,7 @@ graphics.off() #Closing all previously open graphs
 #####################################
 ## Load library
 library(tidyverse)
-library(gghighlight)
+
 
 # Import data
 threats <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-08-18/threats.csv')
