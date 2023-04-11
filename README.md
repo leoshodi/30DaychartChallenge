@@ -19,6 +19,12 @@ used to create each figure by clicking on it. if you like what you see,
 
 ### Day 3 - Fauna/Flora - 🛠️ RStats
 
-![](Figures/day03_flora.png) \### Day 4 - Historical - 🛠️ RStats
+![](Figures/day03_flora.png)
+
+### Day 4 - Historical - 🛠️ RStats
 
 ![](Figures/day04_historical.png)
+
+### Day 5 - Slope - 🛠️ RStats
+
+![](Figures/day05_slope.png)
