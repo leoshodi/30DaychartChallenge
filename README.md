@@ -27,4 +27,6 @@ used to create each figure by clicking on it. if you like what you see,
 
 ### Day 5 - Slope - 🛠️ RStats
 
-![](Figures/day05_slope.png)
+![](Figures/day05_slope.png) \### Day 6 - OWID - 🛠️ RStats
+
+![](Figures/day06_OWID.png)
