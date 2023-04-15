@@ -23,7 +23,7 @@ Welcome to my 2023 #30DayChartChallenge repo. You can view for R code used to cr
 
 ### Day 3 - Fauna/Flora - 🛠️ RStats
 
-![](Figures/day03_flora.png) 
+![](Figures/day03_flora.png)
 
 ### Day 4 - Historical - 🛠️ RStats
 
@@ -32,6 +32,11 @@ Welcome to my 2023 #30DayChartChallenge repo. You can view for R code used to cr
 ### Day 5 - Slope - 🛠️ RStats
 
 ![](Figures/day05_slope.png)
+
 ### Day 6 - OWID - 🛠️ RStats
 
 ![](Figures/day06_OWID.png)
+
+### Day 7 - Hazards - 🛠️ RStats
+
+![](Figures/day07_hazards.png)
