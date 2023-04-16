@@ -39,5 +39,4 @@ Welcome to my 2023 #30DayChartChallenge repo. You can view for R code used to cr
 
 ### Day 7 - Hazards - 🛠️ RStats
 
-
 ![](Figures/day07_hazards.png)
