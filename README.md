@@ -36,3 +36,7 @@ used to create each figure by clicking on it. if you like what you see,
 ### Day 7 - Hazards - 🛠️ RStats
 
 ![](Figures/day07_hazards.png)
+
+### Day 8 - Humans - 🛠️ RStats
+
+![](Figures/day08_human.png)
