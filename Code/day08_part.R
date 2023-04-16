@@ -26,7 +26,7 @@ tt_data %>%
   ggplot( aes(x=age)) +
   geom_histogram( binwidth=3, fill="#69b3a2", color="#e9ecef", alpha=0.9) +
   ggtitle("Bin size = 3") +
-  theme_ipsum() +
+  theme_bw() +
   labs(title= "Age distribution of NBA players, 2019-20 season") +
   labs(x= "Age",
        y = "Count",
