@@ -44,3 +44,7 @@ Welcome to my 2023 #30DayChartChallenge repo. You can view for R code used to cr
 ### Day 8 - Humans - 🛠️ RStats
 
 ![](Figures/day08_human.png)
+
+### Day 9 - High/Low - 🛠️ RStats
+
+![](Figures/day09_high.png)

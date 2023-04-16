@@ -40,3 +40,7 @@ used to create each figure by clicking on it. if you like what you see,
 ### Day 8 - Humans - 🛠️ RStats
 
 ![](Figures/day08_human.png)
+
+### Day 9 - High/Low - 🛠️ RStats
+
+![](Figures/day09_high.png)
