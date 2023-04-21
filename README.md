@@ -44,3 +44,7 @@ used to create each figure by clicking on it. if you like what you see,
 ### Day 9 - High/Low - 🛠️ RStats
 
 ![](Figures/day09_high.png)
+
+### Day 10 - Hybrid - 🛠️ RStats
+
+![](Figures/day010_hybrid.png)
