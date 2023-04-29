@@ -32,7 +32,7 @@ UK_semicircle <-  parliament_data(election_data = UK,
 ggplot(UK_semicircle, aes(x=x, y=y, colour = party_short)) +
   geom_parliament_seats() +
   theme_ggparliament() +
-  labs(title = "UK Parliament, 2017",
+  labs(title = "The House of Commons - UK Parliament, 2017",
        subtitle = "Number of Seats held by each party") +
   scale_colour_manual(values = UK_semicircle$colour, 
                       limits = UK_semicircle$party_short) +
