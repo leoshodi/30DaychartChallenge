@@ -53,6 +53,10 @@ used to create each figure by clicking on it. if you like what you see,
 
 ![](Figures/day011_Circular.png)
 
-### Day 12 - Circular - 🛠️ RStats
+### Day 12 - BBC News - 🛠️ RStats
 
 ![](Figures/day12_BBC.png)
+
+### Day 13 - Pop Culture - 🛠️ RStats
+
+![](Figures/day13_Pop.png)

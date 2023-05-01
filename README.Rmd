@@ -57,6 +57,11 @@ Welcome to my 2023 #30DayChartChallenge repo. You can view for R code used to cr
 
 ![](Figures/day011_Circular.png)
 
-### Day 12 - Circular - 🛠️ RStats
+### Day 12 - BBC News - 🛠️ RStats
 
 ![](Figures/day12_BBC.png)
+
+
+### Day 13 - Pop Culture - 🛠️ RStats
+
+![](Figures/day13_Pop.png)
